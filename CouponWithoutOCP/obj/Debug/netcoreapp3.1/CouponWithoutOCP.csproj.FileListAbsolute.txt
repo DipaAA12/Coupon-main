@@ -1,0 +1,12 @@
+D:\project Bram\KULIAH!!!\semester3\pemrograman lanjut\modul5\Coupon\CouponWithoutOCP\bin\Debug\netcoreapp3.1\CouponWithoutOCP.exe
+D:\project Bram\KULIAH!!!\semester3\pemrograman lanjut\modul5\Coupon\CouponWithoutOCP\bin\Debug\netcoreapp3.1\CouponWithoutOCP.deps.json
+D:\project Bram\KULIAH!!!\semester3\pemrograman lanjut\modul5\Coupon\CouponWithoutOCP\bin\Debug\netcoreapp3.1\CouponWithoutOCP.runtimeconfig.json
+D:\project Bram\KULIAH!!!\semester3\pemrograman lanjut\modul5\Coupon\CouponWithoutOCP\bin\Debug\netcoreapp3.1\CouponWithoutOCP.runtimeconfig.dev.json
+D:\project Bram\KULIAH!!!\semester3\pemrograman lanjut\modul5\Coupon\CouponWithoutOCP\bin\Debug\netcoreapp3.1\CouponWithoutOCP.dll
+D:\project Bram\KULIAH!!!\semester3\pemrograman lanjut\modul5\Coupon\CouponWithoutOCP\bin\Debug\netcoreapp3.1\CouponWithoutOCP.pdb
+D:\project Bram\KULIAH!!!\semester3\pemrograman lanjut\modul5\Coupon\CouponWithoutOCP\obj\Debug\netcoreapp3.1\CouponWithoutOCP.csproj.CoreCompileInputs.cache
+D:\project Bram\KULIAH!!!\semester3\pemrograman lanjut\modul5\Coupon\CouponWithoutOCP\obj\Debug\netcoreapp3.1\CouponWithoutOCP.AssemblyInfoInputs.cache
+D:\project Bram\KULIAH!!!\semester3\pemrograman lanjut\modul5\Coupon\CouponWithoutOCP\obj\Debug\netcoreapp3.1\CouponWithoutOCP.AssemblyInfo.cs
+D:\project Bram\KULIAH!!!\semester3\pemrograman lanjut\modul5\Coupon\CouponWithoutOCP\obj\Debug\netcoreapp3.1\CouponWithoutOCP.dll
+D:\project Bram\KULIAH!!!\semester3\pemrograman lanjut\modul5\Coupon\CouponWithoutOCP\obj\Debug\netcoreapp3.1\CouponWithoutOCP.pdb
+D:\project Bram\KULIAH!!!\semester3\pemrograman lanjut\modul5\Coupon\CouponWithoutOCP\obj\Debug\netcoreapp3.1\CouponWithoutOCP.genruntimeconfig.cache

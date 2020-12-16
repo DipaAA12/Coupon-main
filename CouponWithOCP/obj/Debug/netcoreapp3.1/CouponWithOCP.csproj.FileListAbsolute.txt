@@ -1,0 +1,39 @@
+D:\project Bram\KULIAH!!!\semester3\pemrograman lanjut\modul5\Coupon--main\CouponWithOCP\bin\Debug\netcoreapp3.1\CouponWithOCP.exe
+D:\project Bram\KULIAH!!!\semester3\pemrograman lanjut\modul5\Coupon--main\CouponWithOCP\bin\Debug\netcoreapp3.1\CouponWithOCP.deps.json
+D:\project Bram\KULIAH!!!\semester3\pemrograman lanjut\modul5\Coupon--main\CouponWithOCP\bin\Debug\netcoreapp3.1\CouponWithOCP.runtimeconfig.json
+D:\project Bram\KULIAH!!!\semester3\pemrograman lanjut\modul5\Coupon--main\CouponWithOCP\bin\Debug\netcoreapp3.1\CouponWithOCP.runtimeconfig.dev.json
+D:\project Bram\KULIAH!!!\semester3\pemrograman lanjut\modul5\Coupon--main\CouponWithOCP\bin\Debug\netcoreapp3.1\CouponWithOCP.dll
+D:\project Bram\KULIAH!!!\semester3\pemrograman lanjut\modul5\Coupon--main\CouponWithOCP\bin\Debug\netcoreapp3.1\CouponWithOCP.pdb
+D:\project Bram\KULIAH!!!\semester3\pemrograman lanjut\modul5\Coupon--main\CouponWithOCP\obj\Debug\netcoreapp3.1\CouponWithOCP.csprojAssemblyReference.cache
+D:\project Bram\KULIAH!!!\semester3\pemrograman lanjut\modul5\Coupon--main\CouponWithOCP\obj\Debug\netcoreapp3.1\CouponWithOCP.csproj.CoreCompileInputs.cache
+D:\project Bram\KULIAH!!!\semester3\pemrograman lanjut\modul5\Coupon--main\CouponWithOCP\obj\Debug\netcoreapp3.1\CouponWithOCP.AssemblyInfoInputs.cache
+D:\project Bram\KULIAH!!!\semester3\pemrograman lanjut\modul5\Coupon--main\CouponWithOCP\obj\Debug\netcoreapp3.1\CouponWithOCP.AssemblyInfo.cs
+D:\project Bram\KULIAH!!!\semester3\pemrograman lanjut\modul5\Coupon--main\CouponWithOCP\obj\Debug\netcoreapp3.1\CouponWithOCP.dll
+D:\project Bram\KULIAH!!!\semester3\pemrograman lanjut\modul5\Coupon--main\CouponWithOCP\obj\Debug\netcoreapp3.1\CouponWithOCP.pdb
+D:\project Bram\KULIAH!!!\semester3\pemrograman lanjut\modul5\Coupon--main\CouponWithOCP\obj\Debug\netcoreapp3.1\CouponWithOCP.genruntimeconfig.cache
+D:\project Bram\KULIAH!!!\semester3\pemrograman lanjut\modul5\Coupon\CouponWithOCP\bin\Debug\netcoreapp3.1\CouponWithOCP.exe
+D:\project Bram\KULIAH!!!\semester3\pemrograman lanjut\modul5\Coupon\CouponWithOCP\bin\Debug\netcoreapp3.1\CouponWithOCP.deps.json
+D:\project Bram\KULIAH!!!\semester3\pemrograman lanjut\modul5\Coupon\CouponWithOCP\bin\Debug\netcoreapp3.1\CouponWithOCP.runtimeconfig.json
+D:\project Bram\KULIAH!!!\semester3\pemrograman lanjut\modul5\Coupon\CouponWithOCP\bin\Debug\netcoreapp3.1\CouponWithOCP.runtimeconfig.dev.json
+D:\project Bram\KULIAH!!!\semester3\pemrograman lanjut\modul5\Coupon\CouponWithOCP\bin\Debug\netcoreapp3.1\CouponWithOCP.dll
+D:\project Bram\KULIAH!!!\semester3\pemrograman lanjut\modul5\Coupon\CouponWithOCP\bin\Debug\netcoreapp3.1\CouponWithOCP.pdb
+D:\project Bram\KULIAH!!!\semester3\pemrograman lanjut\modul5\Coupon\CouponWithOCP\obj\Debug\netcoreapp3.1\CouponWithOCP.csprojAssemblyReference.cache
+D:\project Bram\KULIAH!!!\semester3\pemrograman lanjut\modul5\Coupon\CouponWithOCP\obj\Debug\netcoreapp3.1\CouponWithOCP.csproj.CoreCompileInputs.cache
+D:\project Bram\KULIAH!!!\semester3\pemrograman lanjut\modul5\Coupon\CouponWithOCP\obj\Debug\netcoreapp3.1\CouponWithOCP.AssemblyInfoInputs.cache
+D:\project Bram\KULIAH!!!\semester3\pemrograman lanjut\modul5\Coupon\CouponWithOCP\obj\Debug\netcoreapp3.1\CouponWithOCP.AssemblyInfo.cs
+D:\project Bram\KULIAH!!!\semester3\pemrograman lanjut\modul5\Coupon\CouponWithOCP\obj\Debug\netcoreapp3.1\CouponWithOCP.dll
+D:\project Bram\KULIAH!!!\semester3\pemrograman lanjut\modul5\Coupon\CouponWithOCP\obj\Debug\netcoreapp3.1\CouponWithOCP.pdb
+D:\project Bram\KULIAH!!!\semester3\pemrograman lanjut\modul5\Coupon\CouponWithOCP\obj\Debug\netcoreapp3.1\CouponWithOCP.genruntimeconfig.cache
+D:\Coupon\CouponWithOCP\bin\Debug\netcoreapp3.1\CouponWithOCP.exe
+D:\Coupon\CouponWithOCP\bin\Debug\netcoreapp3.1\CouponWithOCP.deps.json
+D:\Coupon\CouponWithOCP\bin\Debug\netcoreapp3.1\CouponWithOCP.runtimeconfig.json
+D:\Coupon\CouponWithOCP\bin\Debug\netcoreapp3.1\CouponWithOCP.runtimeconfig.dev.json
+D:\Coupon\CouponWithOCP\bin\Debug\netcoreapp3.1\CouponWithOCP.dll
+D:\Coupon\CouponWithOCP\bin\Debug\netcoreapp3.1\CouponWithOCP.pdb
+D:\Coupon\CouponWithOCP\obj\Debug\netcoreapp3.1\CouponWithOCP.csprojAssemblyReference.cache
+D:\Coupon\CouponWithOCP\obj\Debug\netcoreapp3.1\CouponWithOCP.AssemblyInfoInputs.cache
+D:\Coupon\CouponWithOCP\obj\Debug\netcoreapp3.1\CouponWithOCP.AssemblyInfo.cs
+D:\Coupon\CouponWithOCP\obj\Debug\netcoreapp3.1\CouponWithOCP.csproj.CoreCompileInputs.cache
+D:\Coupon\CouponWithOCP\obj\Debug\netcoreapp3.1\CouponWithOCP.dll
+D:\Coupon\CouponWithOCP\obj\Debug\netcoreapp3.1\CouponWithOCP.pdb
+D:\Coupon\CouponWithOCP\obj\Debug\netcoreapp3.1\CouponWithOCP.genruntimeconfig.cache
